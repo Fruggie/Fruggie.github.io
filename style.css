@@ -23,6 +23,7 @@ header.startup {
   background-image: url("magnumespot.jpg");
   background-size: cover;
   height: 100%;
+  display: inline-flex;
 }
 
 header.startup hr {
