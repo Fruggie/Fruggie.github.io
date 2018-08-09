@@ -56,7 +56,8 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-h2 {
+section {
   display: flex;
   justify-content: center;
+  justify-content: space-around;
 }
