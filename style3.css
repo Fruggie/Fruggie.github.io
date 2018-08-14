@@ -17,9 +17,9 @@ h1 {
 	border-bottom: 5px solid pink;
 	border-right: 5px solid pink;
 	border-left: 5px solid pink;
-	width: 700px;
+	
 	text-align: center;
-	box-shadow: 3px 6px 8px #888888;
+	box-shadow: 3px 3px 6px 8px #888888;
 	margin-top: 50px;
 
 }
