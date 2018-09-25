@@ -1,0 +1,58 @@
+/** {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+*/
+.title {
+text-transform: uppercase;
+  border-radius: 800px;
+  font-family: 'Montserrat', sans-serif;
+  padding: 1rem 2rem; 
+  background-color: #FCFEA7;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  font-family: fantasy;
+  font-size: 3em;
+  border-bottom: 5px solid pink;
+  border-right: 5px solid pink;
+  border-left: 5px solid pink;
+  border-width: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  font-family: fantasy;
+  font-size: 3em;
+  border-bottom: 5px solid pink;
+  border-right: 5px solid pink;
+  border-left: 5px solid pink;
+}
+
+img {
+	width: 350px;
+	height: 200px;
+	margin:5px;
+	transition: 1s;
+}
+
+img:hover {
+	transform: scale(1.2);
+}
+
+.backbutton {
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.books {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
